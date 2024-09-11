@@ -24,3 +24,9 @@ body {
 
 }
 
+.board-row {
+    clear: both;
+    content: '';
+    display: table;
+
+}
